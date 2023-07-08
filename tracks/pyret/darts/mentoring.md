@@ -1,7 +1,5 @@
 # Mentoring
 
-## Problems and Chalenges
-
 ## Reasonable Solution
 
 **If expression**
